@@ -21,4 +21,6 @@
 </p>
 
 <p align="center"> ✉️ email ✉️ </p>
-<a href="url"><img src="https://img.shields.io/badge/email-3776AB?style=flat-square&logo=lhyk0219@naver.com&logoColor=white&link=lhyk0219@naver.com"/></a>&nbsp
+<p align="center">
+<a href="url"><img src="https://img.shields.io/badge/lhyk0219@naver.com-3776AB?style=flat-square&logo=email&logoColor=white&link=lhyk0219@naver.com"/></a>&nbsp
+</p>
