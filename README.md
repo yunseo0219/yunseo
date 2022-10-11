@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=lee hyun%20young&fontColor=balck&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=hyun%20young&fontColor=balck&fontSize=90)
 
 ### Table of Contents
 - graduation-project
