@@ -27,9 +27,9 @@
 
 | Tolls & Language | Project |
 | ------ | ------ |
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp & JAVA | [README](https://github.com/hyoung98/graduation-project#%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88) |
-| anaconda <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp | [plugins/github/README.md][PlGh] |
-| VScode & html,css | https://github.com/hyoung98/simple_market_site |
+| <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> JAVA | https://github.com/hyoung98/graduation-project |
+| <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | https://github.com/hyoung98/data-analysis/tree/main/python |
+| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a> | https://github.com/hyoung98/simple_market_site |
 
 
 
