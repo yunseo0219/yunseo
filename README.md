@@ -26,7 +26,7 @@
 ## Project & Language
 
 | Tolls & Language | Project | Description |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> JAVA | https://github.com/hyoung98/graduation-project | |
 | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | https://github.com/hyoung98/data-analysis/tree/main/python |  |
 | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> | https://github.com/hyoung98/data-analysis/tree/main/kaggle | kaggle |
