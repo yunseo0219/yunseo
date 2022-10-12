@@ -24,13 +24,9 @@
 | Tolls & Language | Project | Description |
 | ------ | ------ | ------ |
 | <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> JAVA |[Tableau](https://github.com/hyoung98/data-analysis/tree/main/tableau) | |
-
 | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> JAVA | [graduation-project](https://github.com/hyoung98/graduation-project) | |
-
 | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> | [데이터분석](https://github.com/hyoung98/data-analysis/tree/main/python) |  |
-
 | <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> | [데이터분석_캐글](https://github.com/hyoung98/data-analysis/tree/main/kaggle) | kaggle |
-
 | <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a> | [simple_market_site](https://github.com/hyoung98/simple_market_site) |  | 
 
 
