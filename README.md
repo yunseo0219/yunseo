@@ -19,7 +19,7 @@
    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> ✏️ techs that I've used at least once ✏️ </p>
+<p align="center"> :pencil2: techs that I've used at least once :pencil2: </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp
