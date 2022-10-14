@@ -1,4 +1,4 @@
-<header align="center">![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=hyun%20young&fontColor=balck&fontSize=90)</header>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=hyun%20young&fontColor=balck&fontSize=90)
 
 
 <h3 align="center"> :pencil2: techs that I've study :pencil2: </h3>
