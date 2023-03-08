@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=hyun%20young&fontColor=balck&fontSize=90)
 
+<p>주로 파이썬을 이용하여 데이터분석을 공부하고 있습니다. </p>
 
 <h3 align="center"> :pencil2: techs that I've study :pencil2: </h3>
 <p align="center">
