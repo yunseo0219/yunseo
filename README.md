@@ -1,6 +1,6 @@
-![header] (https:// capsule-render.vercel.app/api?type= waving&color= timeGradient&height=300§ion=header&text=yunseo%20young&fontColor=balk&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=yun%20seo&fontSize=90&)
 
-<h3 Straight line="center">: penil2: Currently studying technology: penil2: </h3>
+<h3 align="center">Currently studying technology</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white "/></a>
