@@ -1,4 +1,4 @@
-![머리말] (https:// 캡슐- 렌더.vercel.app/api?type= waving&color= timeGradient&height=300§ion=header&text=현%20young&fontColor=balk&fontSize=90)
+
 
 <h3 일직선을="center">: pencil2: 현재 공부중인 기술: pencil2: </h3>
 <p align="center">
