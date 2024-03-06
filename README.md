@@ -1,14 +1,11 @@
-![머리말](https://캡슐-렌더.vercel.app/api?type=waving&color=timeGradient&height=300§ion=header&text=현%20young&fontColor=balk&fontSize=90)
+![머리말] (https:// 캡슐- 렌더.vercel.app/api?type= waving&color= timeGradient&height=300§ion=header&text=현%20young&fontColor=balk&fontSize=90)
 
-<h3 align="center">: pencil2: 현재 공부중인 기술: pencil2: </h3>
+<h3 일직선을="center">: pencil2: 현재 공부중인 기술: pencil2: </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white "/></a>
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C++&logoColor=white "/></a>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "/></a>
  <br>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white "/></a>
  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white "/></a>
