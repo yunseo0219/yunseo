@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:ffe5ec,100:ffc2d1&height=300&section=header&text=yun%20seo's%20github&fontSize=90&)
+![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:ffe5ec,100:ffb3c6&height=300&section=header&text=yun%20seo's%20github&fontSize=90&)
 
 <h3 align="center">✨ stack ✨</h3>
 <p align="center">
