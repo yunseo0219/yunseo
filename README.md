@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=yun%20seo's%20github&fontSize=90&)
+![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:ffe5ec,100:ffc2d1&height=300&section=header&text=yun%20seo's%20github&fontSize=90&)
 
 <h3 align="center">✨ stack ✨</h3>
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white "/></a>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white "/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white "/></a>
 </p>
 
 <h3 align="center">🏫 university study 🏫</h3>
